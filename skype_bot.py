@@ -78,7 +78,7 @@ __URLS__ = {
 	'sestos':'http://en63.grepolis.com',
 	'thebes':'http://en64.grepolis.com',
 	'zacynthus':'http://en65.grepolis.com',
-	'apollonia ':'http://en66.grepolis.com',
+	'apollonia':'http://en66.grepolis.com',
 	'byllis':'http://en67.grepolis.com',
 	'cythera':'http://en68.grepolis.com',
 	'dyme':'http://en69.grepolis.com'
