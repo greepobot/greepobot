@@ -81,7 +81,8 @@ __URLS__ = {
 	'apollonia ':'http://en66.grepolis.com',
 	'byllis':'http://en67.grepolis.com',
 	'cythera':'http://en68.grepolis.com',
-	'dyme':'http://en69.grepolis.com'
+	'dyme':'http://en69.grepolis.com',
+	'pandosia':'http://en79.grepolis.com'
 	
 }
 defaultconfig = {"territorylimit": {}, "rangelimit": {}, "monitor": {}, "botadmins": ["soconius"], "last_scrape":{}, "world_scrape":{}, "feedback":{}}
