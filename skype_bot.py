@@ -3,7 +3,7 @@ from urllib import urlretrieve,unquote_plus
 from urllib2 import Request,urlopen
 from time import time, ctime, sleep
 #from chatterbotapi import ChatterBotFactory, ChatterBotType
-from BeautifulSoup import BeautifulSoup
+
 currdir = os.getcwd()
 cfgfile = 'bot.cfg' #the file where we store defpochs/conqeusts and other info
 datadir = 'data_files' # directory where we store world data files.
@@ -82,6 +82,7 @@ __URLS__ = {
 	'byllis':'http://en67.grepolis.com',
 	'cythera':'http://en68.grepolis.com',
 	'dyme':'http://en69.grepolis.com'
+	'sinope':http://en81.grepolis.com'
 	
 }
 defaultconfig = {"territorylimit": {}, "rangelimit": {}, "monitor": {}, "botadmins": ["soconius"], "last_scrape":{}, "world_scrape":{}, "feedback":{}}
